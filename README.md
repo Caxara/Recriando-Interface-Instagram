@@ -1,2 +1,2 @@
-# Exerc-cio-DIO-Interface-Instagram-
-Recriar a interface do Instagram como primeiro exercício do curso de HTML da Digital Innovation One
+# Exercício de HTML com CSS do curso de Introdução ao desenvolvimento de web da Digital Innovation One.
+Recriar a interface do Instagram como primeiro exercício.
